@@ -2,3 +2,7 @@ body{
 	font-family: 'Montserrat';
 	font-size: 12px;
 }
+h1{
+	style=font-size: 30px; 
+	color: salmon;
+}
